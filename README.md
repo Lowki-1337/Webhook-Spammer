@@ -1,4 +1,4 @@
-# Wenhook Spammer by Lowki
+# Webhook Spammer by Lowki
 (A Simple webhook spammer)
 
 ## Requirements :
